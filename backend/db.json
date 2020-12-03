@@ -1,0 +1,12 @@
+{
+	"users": [{
+		"id":1,
+		"name": "Josh Nice",
+		"email": "nodetest@node.com"
+	}, {
+		"id":2,
+		"name": "Mickey Nice",
+		"email": "mickeytest@node.com"
+	
+	}]
+}
