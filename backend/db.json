@@ -1,12 +1,19 @@
 {
-	"users": [{
-		"id":1,
-		"name": "Josh Nice",
-		"email": "nodetest@node.com"
-	}, {
-		"id":2,
-		"name": "Mickey Nice",
-		"email": "mickeytest@node.com"
-	
-	}]
+  "users": [
+    {
+      "name": "Ana Silva",
+      "email": "anasilva@silva.com",
+      "id": 1
+    },
+    {
+      "name": "Johnny Nice",
+      "email": "johnny@test.com",
+      "id": 2
+    },
+    {
+      "name": "Junior Junior",
+      "email": "junior@junior.com",
+      "id": 3
+    }
+  ]
 }
